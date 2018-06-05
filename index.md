@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+#Welcome to Teaching Techie! 
 
-You can use the [editor on GitHub](https://github.com/kendie81/teaching-techie/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Integrating technology and maker ed philosophy into my teaching practice 
 
 ### Markdown
 
